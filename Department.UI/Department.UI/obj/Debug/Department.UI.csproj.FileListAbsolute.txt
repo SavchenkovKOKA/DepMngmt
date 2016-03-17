@@ -1,0 +1,11 @@
+C:\Microprogramm\Department\Department.UI\Department.UI\bin\Debug\Department.UI.exe.config
+C:\Microprogramm\Department\Department.UI\Department.UI\bin\Debug\Department.UI.exe
+C:\Microprogramm\Department\Department.UI\Department.UI\bin\Debug\Department.UI.pdb
+C:\Microprogramm\Department\Department.UI\Department.UI\obj\Debug\Department.UI.Properties.Resources.resources
+C:\Microprogramm\Department\Department.UI\Department.UI\obj\Debug\Department.UI.csproj.GenerateResource.Cache
+C:\Microprogramm\Department\Department.UI\Department.UI\obj\Debug\Department.UI.exe
+C:\Microprogramm\Department\Department.UI\Department.UI\obj\Debug\Department.UI.pdb
+C:\Microprogramm\Department\Department.UI\Department.UI\obj\Debug\Department.UI.csprojResolveAssemblyReference.cache
+C:\Microprogramm\Department\Department.UI\Department.UI\obj\Debug\Department.UI.AddEmployeeFrm.resources
+C:\Microprogramm\Department\Department.UI\Department.UI\obj\Debug\Department.UI.AddNodeFrm.resources
+C:\Microprogramm\Department\Department.UI\Department.UI\obj\Debug\Department.UI.Form1.resources
